@@ -1,15 +1,9 @@
-  <img src="https://images.icon-icons.com/665/PNG/512/alien_pixel_icon-icons.com_60289.png" 
-       alt="PicNotFound" 
-       width="140" 
-       align="right" 
-       style="margin-left: 100px; border-radius: 20px;" />
-<br/>
-  <h3>Hi, I'm Tejus</h3>
-  <p>
-    I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
-  </p>
-  <br />
+# Hi, I'm Tejus
 
-</div>
-###### Some text.
+I'm an undergraduate student at **IIIT-Delhi**, pursuing a degree in **Computer Science and Design**.
 
+---
+
+![Alien Image](https://images.icon-icons.com/665/PNG/512/alien_pixel_icon-icons.com_60289.png)
+
+Some text.
