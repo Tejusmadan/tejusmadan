@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200px" align="center">
-      <img src="https://png.pngtree.com/png-clipart/20220228/original/pngtree-pixel-art-character-boy-with-backpack-from-the-side-view-png-image_7325581.png" alt="Profile Photo" width="180" style="border-radius: 10px;"/>
+      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="180" style="border-radius: 10px;"/>
     </td>
     <td>
       <p>About Me</p>
