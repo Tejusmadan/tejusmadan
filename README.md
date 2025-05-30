@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f7e46bf4-99fd-492a-8f62-186772ee68a2)<div style="text-align: right; font-family: Arial, sans-serif;">
-
   <img src="https://art.pixilart.com/sr250e9fb502b0c.png" 
        alt="PicNotFound" 
        width="210" 
