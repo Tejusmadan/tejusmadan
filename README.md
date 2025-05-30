@@ -4,7 +4,7 @@
        alt="PicNotFound" 
        width="210" 
        align="right" 
-       style="margin-left: 40px; border-radius: 20px;" />
+       style="margin-left: 100px; border-radius: 20px;" />
 <br/>
   <h3>Hi, I'm Tejus</h3>
   <p>
