@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="180px" align="center" valign="top">
-      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="160" style="border-radius: 10px;" />
+    <td width="200px" align="center" valign="middle">
+      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="180" style="border-radius: 12px;" />
     </td>
     <td valign="top">
       <h3>Hi, I'm Tejus</h3>
