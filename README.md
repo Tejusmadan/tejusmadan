@@ -3,7 +3,7 @@
 I'm an undergraduate student at **IIIT-Delhi**, pursuing a degree in **Computer Science and Design**.
 
 <div align="right">
-  ![Alien Image](https://images.icon-icons.com/665/PNG/512/alien_pixel_icon-icons.com_60289.png)
+  <img src="https://images.icon-icons.com/665/PNG/512/alien_pixel_icon-icons.com_60289.png" alt="Alien Image" width="50">
 </div>
 
 ###### Some text.
