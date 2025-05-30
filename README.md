@@ -1,10 +1,14 @@
-<img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="160" align="left" style="margin-right: 20px; border-radius: 12px;" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
+     alt="Profile Photo" 
+     width="160" 
+     align="left" 
+     style="margin-right: 20px; border-radius: 12px;" />
 
 <h3>Hi, I'm Tejus</h3>
 <p>
   I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
 </p>
-</br>
+
 <h4>💻 Technical Skills</h4>
 <ul>
   <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
@@ -14,6 +18,7 @@
 </ul>
 
 <br clear="both" />
+
 
 ---
 
