@@ -1,5 +1,5 @@
 <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
-     alt="Profile Photo" 
+     alt="PicNotFound" 
      width="160" 
      align="left" 
      style="margin-right: 20px; border-radius: 20px;" />
