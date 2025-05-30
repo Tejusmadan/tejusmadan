@@ -3,7 +3,7 @@
   <img 
   src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
   alt="PicNotFound" 
-  style="width: 100%; height: auto; border-radius: 20px;" 
+  style="width: 50%; height: auto; border-radius: 20px;" 
 />
 
 
