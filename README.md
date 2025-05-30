@@ -2,7 +2,7 @@
 
   <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
        alt="PicNotFound" 
-       width="200" 
+       width="210" 
        align="right" 
        style="margin-left: 40px; border-radius: 20px;" />
 <br/>
