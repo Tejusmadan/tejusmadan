@@ -12,4 +12,4 @@
   </p>
   <br />
 
-</div> the space between this image and text be increased/
+</div>
