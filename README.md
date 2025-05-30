@@ -1,4 +1,4 @@
-<div style="text-align: center; font-family: Arial, sans-serif;">
+<div style="text-align: right; font-family: Arial, sans-serif; margin-left: 20%;">
 
   <img 
   src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
