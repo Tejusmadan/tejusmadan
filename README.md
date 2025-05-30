@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div style="text-align: right; color: gray; font-family: Arial, sans-serif;">
 
   <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
        alt="PicNotFound" 
@@ -11,12 +11,19 @@
     I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
   </p>
   <br />
-  <h4> Technical Skills</h4>
-  <ul style="display: inline-block; text-align: left;">
-    <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
-    <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
-    <li><strong>ML/Data Tools:</strong> TensorFlow, Keras, PyTorch, scikit-learn, Pandas, Matplotlib, MLflow</li>
-    <li><strong>Tools & Platforms:</strong> Arduino, Postman, LaTeX, Adobe Creative Cloud</li>
-  </ul>
+  <h4>Technical Skills</h4>
+  
+  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
+    <strong>Languages:</strong> C++ &bull; Java &bull; Python &bull; Haskell &bull; HTML &bull; CSS &bull; JavaScript
+  </p>
+  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
+    <strong>Frameworks & Libraries:</strong> React &bull; React Native &bull; Node.js &bull; Flask
+  </p>
+  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
+    <strong>ML/Data Tools:</strong> TensorFlow &bull; Keras &bull; PyTorch &bull; scikit-learn &bull; Pandas &bull; Matplotlib &bull; MLflow
+  </p>
+  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
+    <strong>Tools & Platforms:</strong> Arduino &bull; Postman &bull; LaTeX &bull; Adobe Creative Cloud
+  </p>
 
 </div>
