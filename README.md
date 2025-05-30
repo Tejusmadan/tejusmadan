@@ -1,12 +1,14 @@
 <table>
   <tr>
-    <td width="200px" align="center">
-      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="180" style="border-radius: 10px;"/>
+    <td width="180px" align="center" valign="top" style="padding-right: 20px;">
+      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="160" style="border-radius: 10px;"/>
     </td>
-    <td>
-      <p>About Me</p>
+    <td valign="top" style="vertical-align: top;">
+      <h3 style="margin-bottom: 5px;">💫 About Me</h3>
+      <hr style="border: 0; height: 1px; background: #ccc; margin-top: 0; margin-bottom: 12px;" />
       <p>
         I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.<br/>
+        I enjoy building user-centric software, exploring new frameworks, and tinkering with machine learning workflows.
       </p>
     </td>
   </tr>
