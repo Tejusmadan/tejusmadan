@@ -1,6 +1,6 @@
   <img src="https://art.pixilart.com/sr250e9fb502b0c.png" 
        alt="PicNotFound" 
-       width="210" 
+       width="140" 
        align="right" 
        style="margin-left: 100px; border-radius: 20px;" />
 <br/>
