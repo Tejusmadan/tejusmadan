@@ -1,23 +1,19 @@
-<table>
-  <tr>
-    <td width="200px" align="center" valign="middle">
-      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="180" style="border-radius: 12px;" />
-    </td>
-    <td valign="top">
-      <h3>Hi, I'm Tejus</h3>
-      <p>
-        I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
-      </p>
-      <h4>💻 Technical Skills</h4>
-      <ul>
-        <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
-        <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
-        <li><strong>ML/Data Tools:</strong> TensorFlow, Keras, PyTorch, scikit-learn, Pandas, Matplotlib, MLflow</li>
-        <li><strong>Tools & Platforms:</strong> Arduino, Postman, LaTeX, Adobe Creative Cloud</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="160" align="left" style="margin-right: 20px; border-radius: 12px;" />
+
+<h3>Hi, I'm Tejus</h3>
+<p>
+  I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
+</p>
+
+<h4>💻 Technical Skills</h4>
+<ul>
+  <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
+  <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
+  <li><strong>ML/Data Tools:</strong> TensorFlow, Keras, PyTorch, scikit-learn, Pandas, Matplotlib, MLflow</li>
+  <li><strong>Tools & Platforms:</strong> Arduino, Postman, LaTeX, Adobe Creative Cloud</li>
+</ul>
+
+<br clear="both" />
 
 ---
 
