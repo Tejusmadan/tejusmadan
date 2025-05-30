@@ -1,22 +1,23 @@
-<!-- Bio Section -->
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="180" style="border-radius: 10px;" />
-  
-  <div>
-    <h3 style="margin-bottom: 4px;">Hi, I'm Tejus</h3>
-    <p style="margin-top: 0;">
-      I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
-    </p>
-
-    <h4 style="margin-bottom: 4px; margin-top: 20px;">💻 Technical Skills</h4>
-    <ul style="margin-top: 4px; padding-left: 20px;">
-      <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
-      <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
-      <li><strong>ML/Data Tools:</strong> TensorFlow, Keras, PyTorch, scikit-learn, Pandas, Matplotlib, MLflow</li>
-      <li><strong>Tools & Platforms:</strong> Arduino, Postman, LaTeX, Adobe Creative Cloud</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="180px" align="center" valign="top">
+      <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" alt="Profile Photo" width="160" style="border-radius: 10px;" />
+    </td>
+    <td valign="top">
+      <h3>Hi, I'm Tejus</h3>
+      <p>
+        I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
+      </p>
+      <h4>💻 Technical Skills</h4>
+      <ul>
+        <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
+        <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
+        <li><strong>ML/Data Tools:</strong> TensorFlow, Keras, PyTorch, scikit-learn, Pandas, Matplotlib, MLflow</li>
+        <li><strong>Tools & Platforms:</strong> Arduino, Postman, LaTeX, Adobe Creative Cloud</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
