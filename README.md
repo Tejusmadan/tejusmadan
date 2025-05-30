@@ -2,7 +2,7 @@
      alt="Profile Photo" 
      width="160" 
      align="left" 
-     style="margin-right: 20px; border-radius: 12px;" />
+     style="margin-right: 20px; border-radius: 20px;" />
 
 <h3>Hi, I'm Tejus</h3>
 <p>
