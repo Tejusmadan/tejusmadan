@@ -1,9 +1,11 @@
 <div style="text-align: right; font-family: Arial, sans-serif;">
 
-  <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
-       alt="PicNotFound" 
-       width="160" 
-       style="float: right; margin-left: 60px; border-radius: 20px;" />
+  <img 
+  src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
+  alt="PicNotFound" 
+  style="width: 100%; height: auto; border-radius: 20px;" 
+/>
+
 
   <h3>Hi, I'm Tejus</h3>
   <p>
