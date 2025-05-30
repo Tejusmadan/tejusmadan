@@ -9,7 +9,7 @@
   I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.
 </p>
 </br>
-<h4>💻 Technical Skills</h4>
+<h4> Technical Skills</h4>
 <ul>
   <li><strong>Languages:</strong> C++, Java, Python, Haskell, HTML, CSS, JavaScript</li>
   <li><strong>Frameworks & Libraries:</strong> React, React Native, Node.js, Flask</li>
