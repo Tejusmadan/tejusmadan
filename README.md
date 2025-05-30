@@ -7,7 +7,6 @@
       <h1>💫 About Me</h1>
       <p>
         🎓 I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.<br/>
-        Passionate about building thoughtful user interfaces, exploring functional programming, and experimenting with ML workflows.
       </p>
     </td>
   </tr>
