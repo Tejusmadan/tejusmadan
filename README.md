@@ -1,4 +1,4 @@
-<div style="text-align: right; color: #999; font-family: Arial, sans-serif;">
+<div style="text-align: right; font-family: Arial, sans-serif;">
 
   <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
        alt="PicNotFound" 
@@ -13,7 +13,7 @@
   <br />
   <h4>Technical Skills</h4>
 
-  <p style="color: #bbb; font-weight: normal; font-size: 14px; margin: 0;">
+  <p style="color: rgba(0, 0, 0, 0.2); font-weight: normal; font-size: 14px; margin: 0;">
     C++ &bull; Java &bull; Python &bull; Haskell &bull; HTML &bull; CSS &bull; JavaScript &bull; React &bull; React Native &bull; Node.js &bull; Flask &bull; TensorFlow &bull; Keras &bull; PyTorch &bull; scikit-learn &bull; Pandas &bull; Matplotlib &bull; MLflow &bull; Arduino &bull; Postman &bull; LaTeX &bull; Adobe Creative Cloud
   </p>
 
