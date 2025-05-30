@@ -4,7 +4,7 @@
       <img src="https://via.placeholder.com/200x200.png?text=Your+Photo+Here" alt="Profile Photo" width="180" style="border-radius: 10px;"/>
     </td>
     <td>
-      <h1>💫 About Me</h1>
+      <p>About Me</p>
       <p>
         🎓 I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.<br/>
       </p>
