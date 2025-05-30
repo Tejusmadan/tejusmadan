@@ -6,7 +6,7 @@
     <td>
       <p>About Me</p>
       <p>
-        🎓 I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.<br/>
+        I'm an undergraduate student at <strong>IIIT-Delhi</strong>, pursuing a degree in <strong>Computer Science and Design</strong>.<br/>
       </p>
     </td>
   </tr>
