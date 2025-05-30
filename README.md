@@ -58,9 +58,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Tejusmadan&icon=5&color=6" alt="Visitor Count"/>
-  </a>
-</p>
