@@ -1,4 +1,4 @@
-<div style="text-align: right; color: gray; font-family: Arial, sans-serif;">
+<div style="text-align: right; color: #999; font-family: Arial, sans-serif;">
 
   <img src="http://upload.wikimedia.org/wikipedia/commons/0/06/Green_character_pixel_art.png" 
        alt="PicNotFound" 
@@ -12,18 +12,9 @@
   </p>
   <br />
   <h4>Technical Skills</h4>
-  
-  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
-    <strong>Languages:</strong> C++ &bull; Java &bull; Python &bull; Haskell &bull; HTML &bull; CSS &bull; JavaScript
-  </p>
-  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
-    <strong>Frameworks & Libraries:</strong> React &bull; React Native &bull; Node.js &bull; Flask
-  </p>
-  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
-    <strong>ML/Data Tools:</strong> TensorFlow &bull; Keras &bull; PyTorch &bull; scikit-learn &bull; Pandas &bull; Matplotlib &bull; MLflow
-  </p>
-  <p style="color: gray; font-weight: normal; font-size: 14px; margin: 0;">
-    <strong>Tools & Platforms:</strong> Arduino &bull; Postman &bull; LaTeX &bull; Adobe Creative Cloud
+
+  <p style="color: #bbb; font-weight: normal; font-size: 14px; margin: 0;">
+    C++ &bull; Java &bull; Python &bull; Haskell &bull; HTML &bull; CSS &bull; JavaScript &bull; React &bull; React Native &bull; Node.js &bull; Flask &bull; TensorFlow &bull; Keras &bull; PyTorch &bull; scikit-learn &bull; Pandas &bull; Matplotlib &bull; MLflow &bull; Arduino &bull; Postman &bull; LaTeX &bull; Adobe Creative Cloud
   </p>
 
 </div>
