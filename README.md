@@ -1,4 +1,4 @@
-<a href="https://tejusmadan.github.io" target="_blank">
+<a href="https://tejusmadan.github.io/" target="_blank">
   <img src="https://images.icon-icons.com/665/PNG/512/alien_pixel_icon-icons.com_60289.png" 
        alt="PicNotFound" 
        width="140" 
